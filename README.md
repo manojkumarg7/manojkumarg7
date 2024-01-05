@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @manojkumarg7
 - 👀 I’m front-end-developer
 - 🌱 I’m currently Working at Analy
-- 💞️ I’m looking to collaborate on ...
-- 📫 📫 You can reach me here manojkumargowdru7@gmail.com
+ - 📫 📫 You can reach me here manojkumargowdru7@gmail.com
 
 
 
