@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered web applications, UI/UX design, and full-stack projects<br><br>👯 I’m looking to collaborate on UI/UX, Open Source, AI, and SaaS projects<br><br>🤝 I’m looking for help with scalable architecture, improving user experience, and building better design systems<br><br>🌱 I’m currently learning API development, AI integrations, UI/UX principles, and cloud technologies<br><br>💬 Ask me about React, Node.js, UI/UX Design, Figma, APIs, Full Stack Development, and AI Tools<br><br>⚡ Fun fact: I enjoy transforming ideas into intuitive designs and functional applications<br>
+
+🌐 **Portfolio:** https://manojkumar-g.vercel.app/
+
+🔭 I’m currently working on AI-powered web applications, UI/UX design, and full-stack projects.
+👯 I’m looking to collaborate on UI/UX, Open Source, AI, and SaaS projects.
+🤝 I’m looking for help with scalable architecture, improving user experience, and building better design systems.
+🌱 I’m currently learning API development, AI integrations, UI/UX principles, and cloud technologies.
+💬 Ask me about React, Node.js, UI/UX Design, Figma, APIs, Full Stack Development, and AI Tools.
+⚡ Fun fact: I enjoy transforming ideas into intuitive designs and functional applications.
+
 
 
 ## 🌐 Socials:
