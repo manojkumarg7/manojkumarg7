@@ -3,7 +3,7 @@
 🌐 **Portfolio:**
 👉 https://manojkumar-g.vercel.app/
 
-🔭 I’m currently working on AI-powered web applications, UI/UX design, and full-stack projects. I’m interested in building intuitive user experiences and modern, scalable digital products using React.js, Node.js, Figma, REST APIs, and AI tools.
+🔭 I’m currently working on AI-powered web applications and full-stack projects. I’m interested in building intuitive user experiences and modern, scalable digital products using React.js, Node.js, Figma, REST APIs, and AI tools.
 
 
 
